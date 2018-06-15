@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SlotMachine</string>
+    <string name="set_value">Set Value</string>
+    <string name="new_game">New Game</string>
+    <string name="amount_hint">Enter Amount Here</string>
+    <string name="play_game">Play</string>
+</resources>
